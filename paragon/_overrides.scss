@@ -248,6 +248,10 @@ div[data-learner-type=b2c_learner] {
         .pgn__hyperlink.default-link.standalone-link {
             display: none;
         }
+        //This is my addition to try to change the brand color in MFE
+        .bg-primary {
+            background-color: #0A3042;
+        }
         .bg-primary-400 {
             background: none !important;
             flex: 0 0 100%;
